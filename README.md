@@ -12,3 +12,5 @@
 - :heart: Estou em um relacionamento serio
 
 -:relaxed: Gosto muito de viver coisas novas
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
